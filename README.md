@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/e49e84cf-ace3-48c1-ad21-df2978adcd3c)This scripts can be used for prepare study, background and assotiation goatools tables. 
+This scripts can be used for prepare study, background and assotiation goatools tables. 
 # DAVID GO-parser
 ``DAVID_Go_parser.py``
 
