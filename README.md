@@ -4,6 +4,8 @@ This scripts can be used for GO enrichment analysis. DAVID and GAF GO-parsers ma
 
 Simple parser of GO-enrichment for DAVID functional annotation table. Process gene GO enrichment from a given file.
 
+https://david.ncifcrf.gov/
+
 usage: 
 
     DAVID_GO_parser2.py [-h] input_file output_file
@@ -20,6 +22,8 @@ positional arguments:
 ``gaf_GO_parser.py``
 
 Simple parser of GO-enrichment for .gaf table. Process gene GO enrichment from a given file.
+
+https://geneontology.org/docs/download-ontology/
 
 usage:
 
@@ -38,6 +42,8 @@ positional arguments:
 ``heatmap_GO.py``
 
 Create GO Term Enrichment Heatmap from multiple files. Input file(s) must look like goatools table:
+
+https://github.com/tanghaibao/goatools
 
 | GO | NS | enrichment | name | ratio_in_study | ratio_in_pop | p_uncorrected | depth | study_count | p_bonferroni | p_sidak | p_holm | p_fdr_bh | study_items |
 | -- | -- | ---------- |------|----------------|--------------|---------------|-------|-------------|--------------|---------|--------|----------|-------------|
