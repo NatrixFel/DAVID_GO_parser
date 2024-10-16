@@ -1,4 +1,4 @@
-This scripts can be used for prepare study, background and assotiation goatools tables. 
+This scripts can be used for GO enrichment analysis. DAVID and GAF GO-parsers make assotiation goatools table and heatmap-script makes illustration of GO enrichment. 
 # DAVID GO-parser
 ``DAVID_Go_parser.py``
 
