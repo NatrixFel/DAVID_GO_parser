@@ -35,7 +35,7 @@ def create_go_heatmap(data, output_image, title):
     fig_height = max(10, num_rows * 0.4)
     
     plt.figure(figsize=(fig_width, fig_height))
-    cmap = sns.color_palette("Blues", as_cmap=True)
+    cmap = sns.color_palette("Reds", as_cmap=True) #or Blues if down-regulated
     
     ax = sns.heatmap(data, mask=mask, cmap=cmap, linewidths=0.5, linecolor='black',
                      cbar_kws={'orientation': 'horizontal', 'pad': 0.05, 
