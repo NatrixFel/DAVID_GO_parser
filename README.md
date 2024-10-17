@@ -62,3 +62,10 @@ positional arguments:
     options:
     -h, --help       show this help message and exit
     --output OUTPUT  Output image file name (default: go_enrichment_heatmap.png).
+
+Another script ``heatmap_GO_fit.py`` create three GO Term Enrichment Heatmap for BP, MF and CC from multiple files. 
+![CC_full](https://github.com/user-attachments/assets/0c7e4bb2-b1fd-409d-ad23-954a4a5e08b3)
+![BP_full](https://github.com/user-attachments/assets/c81179c8-6004-4fa1-b821-96d6ca4b3246)
+![MF_full](https://github.com/user-attachments/assets/fc6e3250-8b3d-4364-b4e8-5ce5d1d78495)
+
+
